@@ -1,0 +1,17 @@
+http://www.ppgel.net.br/sbai2011/arquivos/Talk.SBAI.11.pdf
+https://www.reddit.com/r/MachineLearning/comments/32ja88/fuzzy_logic_and_machine_learning/
+Suy luận Bayesian
+https://en.wikipedia.org/wiki/Bayesian_inference
+
+http://www.labic.icmc.usp.br/pub/mcmonard/CintraC3N09.pdf
+http://www.kev.pulo.com.au/ai/fuzzyml_report/
+https://www.quora.com/What-are-the-hot-topics-in-machine-learning-and-fuzzy-logic-together
+https://www.mathematik.uni-marburg.de/~eyke/publications/FSS40.pdf
+http://www.wcci2016.org/document/tutorials/fuzz2.pdf
+https://www.codeproject.com/Articles/151161/Fuzzy-Framework
+http://jfuzzylogic.sourceforge.net/html/index.html
+http://www.cwi.ugent.be/Chris/Applications-FR.pdf
+https://arxiv.org/pdf/1408.5246.pdf
+http://sci2s.ugr.es/keel/pdf/algorithm/articulo/chen2.pdf
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=15&ved=0ahUKEwiYwL3kqoLUAhXFEpQKHcHOBIY4ChAWCDowBA&url=https%3A%2F%2Fams.confex.com%2Fams%2Fpdfpapers%2F120119.pdf&usg=AFQjCNGBp7nCqAthV_QswsXJh-i_30s3Qg&sig2=tj5Fvlq1pOtFcYhQ3cRGDw&cad=rja
+https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2007-7.pdf
